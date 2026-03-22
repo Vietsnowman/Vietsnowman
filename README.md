@@ -8,7 +8,7 @@ Newbie in building AI systems and Applied AI in Agricultural
 
 * 🌍  I'm based in Hanoi
 * ✉️  You can contact me at [tranquocviet2k6@gmail.com](mailto:tranquocviet2k6@gmail.com)
-* 👥  I'm looking to collaborate on Applied AI Researchs.
+* 👥  I'm looking to collaborate on Applied AI Researches.
 * 💬  A sophemore student studying Engineer's Degree in Advanced IT at PTIT
 
 <p align="left">
